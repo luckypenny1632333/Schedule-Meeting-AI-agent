@@ -1,4 +1,4 @@
-# Meeting Room Booking Agent
+# Schedule Meeting AI Agent
 
 An intelligent AI-powered meeting room booking system built with LangGraph and advanced natural language processing capabilities. The system provides seamless room reservation through conversational interfaces, featuring automated availability checking, smart scheduling, and comprehensive booking management.
 
@@ -8,7 +8,7 @@ An intelligent AI-powered meeting room booking system built with LangGraph and a
 
 ## Overview
 
-The Meeting Room Booking Agent leverages state-of-the-art language models to transform natural language requests into structured booking operations. Built on the LangGraph framework, it provides enterprise-grade workflow orchestration with intelligent fallback mechanisms and user clarification loops.
+The Schedule Meeting AI Agent leverages state-of-the-art language models to transform natural language requests into structured booking operations. Built on the LangGraph framework, it provides enterprise-grade workflow orchestration with intelligent fallback mechanisms and user clarification loops.
 
 ## Key Features
 
